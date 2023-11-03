@@ -17,4 +17,4 @@ I mapped the change of the MVC Index per street in Manhattan from January to Oct
 Packages that I used include `OSMnx` to get street network graphs and graph edges, `matplotlib` to plot the histogram and maps, `folium` to visualize the interactive map.
 
 ![map](https://github.com/cyber-hbliu/30DayMapChallenge/blob/260b059e83e6f1ac74e942f3724594e099f550cc/2/1.gif)
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/fa82b0dae28ccae149da1d2b8b1cb26f02a28439/2/crash_index_manhattan_2023_interactive.html)
+![html](https://github.com/cyber-hbliu/30DayMapChallenge/blob/fa82b0dae28ccae149da1d2b8b1cb26f02a28439/2/crash_index_manhattan_2023_interactive.html)
