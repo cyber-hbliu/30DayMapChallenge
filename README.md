@@ -2,7 +2,7 @@
 
 ## #3: Polygon
 
-![]
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/a3dd4fd32e9c2a7e52c21d58ff31a9bdfc54b0a3/3/map.png)
 
 
 
