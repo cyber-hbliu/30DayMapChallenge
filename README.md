@@ -1,5 +1,14 @@
 # 30DayMapChallenge
 
+## #3: Polygon
+
+![]
+
+
+
+
+
+
 ## #2: Lines - Motor Vehicle Collisions Index Per Street in Manhattan
 
 I mapped the change of the MVC Index per street in Manhattan from January to October of the year 2023. The data is from [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95), containing details on the crash event from all police-reported motor vehicle collisions in NYC. The MVC Index provides a measure of crash frequency per street. It was calculated based on street network length, nearest edge, and the number of crashes, then logged and normalized.
