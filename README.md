@@ -5,7 +5,7 @@
 # 30DayMapChallenge
 
 ## #7: Navigation
-![]([https://github.com/cyber-hbliu/30DayMapChallenge/blob/505f3c4897568357bd8bd31211b7d726db6218c5/7/trail%20routes.png](https://github.com/cyber-hbliu/30DayMapChallenge/blob/161b139e6a651b7a1e97548689a4f614b39cbbc7/7/yosemite.png))
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/161b139e6a651b7a1e97548689a4f614b39cbbc7/7/yosemite.png))
 
 ## #3: Polygon
 
