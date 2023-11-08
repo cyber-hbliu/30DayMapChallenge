@@ -7,6 +7,9 @@
 ## #7: Navigation
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/161b139e6a651b7a1e97548689a4f614b39cbbc7/7/yosemite.png))
 
+## #4: A Bad Map
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/bcb8ef109fc8c440c21683200b1442c7ccbc5651/4/map.png)
+
 ## #3: Polygon
 
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/a3dd4fd32e9c2a7e52c21d58ff31a9bdfc54b0a3/3/map.png)
