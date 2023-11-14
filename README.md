@@ -6,7 +6,7 @@
 
 ## #14: Europe
 R
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/12d0d469612d2cc856fe1312850a360d300c0af4/14/map.png)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/da9eaab8143e256958efa1ba0fbc04204bd05934/14/europe_map.png)
 
 ## #8: Africa
 Python
