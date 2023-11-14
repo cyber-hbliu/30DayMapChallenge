@@ -4,6 +4,10 @@
 
 # 30DayMapChallenge
 
+## #8: Africa
+Python
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/11bc7f65ffc7faaf0d0d7026809395a81af1bb77/8/1.gif)
+
 ## #7: Navigation
 In ArcGIS
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/161b139e6a651b7a1e97548689a4f614b39cbbc7/7/yosemite.png))
