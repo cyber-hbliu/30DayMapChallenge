@@ -8,6 +8,9 @@
 R
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/da9eaab8143e256958efa1ba0fbc04204bd05934/14/europe_map.png)
 
+## #10 & 12 America
+follow the tutorial made by milos-agathon, and his [code](https://github.com/milos-agathon/mapping-wind-wtih-r/tree/main)
+
 
 ## #11: Retro
 A blast from the past
