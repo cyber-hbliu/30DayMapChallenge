@@ -10,7 +10,7 @@ R
 
 ## #10 & 12 America
 follow the tutorial made by milos-agathon, and his [code](https://github.com/milos-agathon/mapping-wind-wtih-r/tree/main) in R.
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/e21dd4a5d99b2360bd9373ac9d2f8e86e722badf/10%20%26%2012/map.png)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/a84ab9e1da2a996497063df60107908382ead07b/10%20%26%2012/america_map.png)
 
 
 ## #11: Retro
