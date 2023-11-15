@@ -13,6 +13,9 @@ in Python, modified by illustrator
 R
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/da9eaab8143e256958efa1ba0fbc04204bd05934/14/europe_map.png)
 
+## #13: Choropleth
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/e198be7839b4706739c871f9ef57d0ee6b45a460/13/choropleth.png)
+
 ## #10 & 12 America
 follow the tutorial made by milos-agathon, and his [code](https://github.com/milos-agathon/mapping-wind-wtih-r/tree/main) in R.
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/a84ab9e1da2a996497063df60107908382ead07b/10%20%26%2012/america_map.png)
