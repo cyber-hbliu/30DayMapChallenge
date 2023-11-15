@@ -5,7 +5,10 @@
 # 30DayMapChallenge
 
 ## #15: OpenStreetMap
-in Python, modified by illustrator
+City isochrone maps, made in Python with OSMnx. How far can you travel on foot from the city center? I kinda have some clues to dive deeply into accessibility metrics and direction index for cities. 
+
+Anyway, something absurd with legends, I generated animation imaged by two functions.
+
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/512ad01325b9085fc73db93b3eec941abff823da/15/map.gif)
 ![](
 
