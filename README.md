@@ -6,7 +6,7 @@
 
 ## #15: OpenStreetMap
 in Python, modified by illustrator
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/f2a042c9002ee93443535569c680341fbfb76437/15/isochrone.png)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/8b76366591a49b0bfc720b0b7b1ea87b3d896351/15/city_isochrone_map.png)
 ![](
 
 ## #14: Europe
