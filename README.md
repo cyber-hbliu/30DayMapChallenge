@@ -5,7 +5,7 @@
 # 30DayMapChallenge
 
 ## #29: Population
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/10a2e8ac9b437ed655bc6f14ff096fc04473097e/29/map.gif)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/460cc38d111ca136a7cd3dc03305c6feca3357d1/29/map.gif)
 
 ## #19: A 5mins Map
 Generated in Kepler.gl and modified in Illustrator
