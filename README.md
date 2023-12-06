@@ -8,7 +8,7 @@
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/460cc38d111ca136a7cd3dc03305c6feca3357d1/29/map.gif)
 
 ## #27: A Dot Map
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/e6d3c19aa3a52264b9329c43601657c56ac63597/27/miami_dot.png)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/bebabc6a52d41d1018bd11dee28105b0b6989bb9/27/miami_map.png)
 
 ## #21: Raster
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/3a02bf3bf7edc47e2f9f8b5422c5600e2b7e63e9/21/city_expansion.png)
