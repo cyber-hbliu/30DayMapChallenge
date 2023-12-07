@@ -49,6 +49,10 @@ follow the tutorial made by milos-agathon, and his [code](https://github.com/mil
 A blast from the past
 Python & Adobe
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/67c3128ee46b0f09ba0d713341480d334aee2a6b/11/migrants_map.png)
+
+## #9: Hexagons
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/335cc81ef7d27f9d358e4e40c8cf666f2ff6c3bf/9/hexagon.png)
+
 ## #8: Africa
 Python
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/11bc7f65ffc7faaf0d0d7026809395a81af1bb77/8/1.gif)
@@ -71,10 +75,9 @@ Let's get this over with
 
 
 
+## #2: Lines 
 
-
-
-## #2: Lines - Motor Vehicle Collisions Index Per Street in Manhattan
+### Motor Vehicle Collisions Index Per Street in Manhattan
 
 I mapped the change of the MVC Index per street in Manhattan from January to October of the year 2023. The data is from [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95), containing details on the crash event from all police-reported motor vehicle collisions in NYC. The MVC Index provides a measure of crash frequency per street. It was calculated based on street network length, nearest edge, and the number of crashes, then logged and normalized.
 
@@ -83,7 +86,9 @@ Packages that I used include `OSMnx` to get street network graphs and graph edge
 ![map](https://github.com/cyber-hbliu/30DayMapChallenge/blob/260b059e83e6f1ac74e942f3724594e099f550cc/2/1.gif)
 
 
-## #1: Points - Popular Instagram Check-ins in North America
+## #1: Points
+
+==Popular Instagram Check-ins in North America==
 
 I mapped the popular check-in points under the hashtag "ustrip" in North America on Instagram. The data is from [Voratham Tiabrat](https://zenodo.org/records/3530864#.Y9Y5itJBwUE), including the records during Jan 2016 to Oct 2019. I mapped it with R and modified it in Adobe Illustrator. 
 
