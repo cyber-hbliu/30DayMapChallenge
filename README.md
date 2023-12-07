@@ -70,9 +70,8 @@ Let's get this over with
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/bcb8ef109fc8c440c21683200b1442c7ccbc5651/4/map.png)
 
 ## #3: Polygon
-
+### Choropleth Map of LFPR Gender Gap in Philadelphia in 2021
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/a3dd4fd32e9c2a7e52c21d58ff31a9bdfc54b0a3/3/map.png)
-
 
 
 ## #2: Lines 
@@ -88,7 +87,7 @@ Packages that I used include `OSMnx` to get street network graphs and graph edge
 
 ## #1: Points
 
-==Popular Instagram Check-ins in North America==
+### Popular Instagram Check-ins in North America
 
 I mapped the popular check-in points under the hashtag "ustrip" in North America on Instagram. The data is from [Voratham Tiabrat](https://zenodo.org/records/3530864#.Y9Y5itJBwUE), including the records during Jan 2016 to Oct 2019. I mapped it with R and modified it in Adobe Illustrator. 
 
