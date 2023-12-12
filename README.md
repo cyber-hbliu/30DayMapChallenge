@@ -31,9 +31,7 @@ Mapped for cute sea turtles to show their nesting location (beaches) in Australi
 ## #15: OpenStreetMap
 City isochrone maps, made in Python with OSMnx. How far can you travel on foot from the city center? I kinda have some clues to dive deeply into accessibility metrics and direction index for cities. 
 
-Anyway, something absurd with legends, I generated animation imaged by two functions.
-
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/512ad01325b9085fc73db93b3eec941abff823da/15/map.gif)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/808b32945a7583e9cdb12d164a8f872c1d64acdd/15/1.gif)
 
 
 ## #14: Europe
