@@ -4,6 +4,9 @@
 
 # 30DayMapChallenge
 
+![image](https://github.com/cyber-hbliu/30DayMapChallenge/assets/75055449/913c54a9-9a97-4593-8e49-d8bb0f722356)
+
+
 ## #29: Population
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/460cc38d111ca136a7cd3dc03305c6feca3357d1/29/map.gif)
 
