@@ -66,7 +66,7 @@ In ArcGIS
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/161b139e6a651b7a1e97548689a4f614b39cbbc7/7/yosemite.png))
 
 
-## #5: Asia
+## #6: Asia
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/7fbe9d1cb09a4db704a1ce488306adeb05afb965/5/reefatrisk.gif)
 
 ## #4: A Bad Map
