@@ -13,6 +13,9 @@
 ## #27: A Dot Map
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/bebabc6a52d41d1018bd11dee28105b0b6989bb9/27/miami_map.png)
 
+## #25: Antarctica
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/9190c01ea6ffe173f0f14171d77e87271fe1d0c9/25/map%20.gif)
+
 ## #21: Raster
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/3a02bf3bf7edc47e2f9f8b5422c5600e2b7e63e9/21/city_expansion.png)
 
