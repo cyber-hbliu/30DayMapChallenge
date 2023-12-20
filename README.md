@@ -17,7 +17,7 @@
 ![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/9190c01ea6ffe173f0f14171d77e87271fe1d0c9/25/map%20.gif)
 
 ## #21: Raster
-![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/3a02bf3bf7edc47e2f9f8b5422c5600e2b7e63e9/21/city_expansion.png)
+![](https://github.com/cyber-hbliu/30DayMapChallenge/blob/85702746a52d5f30841560861ce11b94c199288b/21/city_expansion_maps.png)
 
 ## #19: A 5mins Map
 Generated in Kepler.gl and modified in Illustrator
